@@ -1,0 +1,50 @@
+17,544,Canada
+24,672,Canada
+3,211,Brazil
+21,585,Canada
+3,798,Canada
+0,69,Spain
+11,459,New Zealand
+16,983,Brazil
+22,178,United States
+15,830,Spain
+22,873,New Zealand
+18,731,Switzerland
+14,976,United States
+22,20,Spain
+4,313,Canada
+1,881,Canada
+5,80,Brazil
+14,946,United States
+23,930,Switzerland
+16,408,New Zealand
+21,370,New Zealand
+14,814,Spain
+6,782,Spain
+7,326,Switzerland
+2,104,Canada
+22,188,Spain
+12,471,Canada
+1,442,Brazil
+23,3,New Zealand
+11,901,Spain
+9,652,Spain
+24,338,United States
+1,192,Canada
+6,801,New Zealand
+15,569,New Zealand
+24,14,New Zealand
+15,662,Brazil
+23,866,Switzerland
+9,389,United States
+21,456,New Zealand
+12,219,Brazil
+2,244,Spain
+5,665,United States
+12,327,Brazil
+6,427,Spain
+8,177,Brazil
+20,722,New Zealand
+2,262,New Zealand
+17,484,Spain
+8,722,New Zealand
